@@ -13,5 +13,5 @@ if len(senha) < 15:
 elif len(senha) > 15:
     print("Maior que 15 Senha boa!")
 
-if senha.isdigit():
+elif senha.isdigit():
     print("Sua senha contem apenas numeros! não é segura!")
