@@ -10,3 +10,8 @@ Modo de uso
 -----------
 Basta executar no terminal o comando:
     python checador.py
+
+Orientações
+-----------
+formas de commts: se você fez qualquer alteração, commita e manda, explicando
+com suas paralvras o que foi feito.
